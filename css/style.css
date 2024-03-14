@@ -576,7 +576,7 @@ table {
 		left: 0px;
 		top: 0px;
 
-		background: linear-gradient(180deg, rgba(217, 217, 217, 0) 39.58%, #A3B0C3 100%);
+		background: linear-gradient(180deg, rgba(217, 217, 217, 0) 10%, #0D0D0D 100%);
 	}
 
 	#hero h1 {
@@ -929,7 +929,7 @@ table {
 			border-radius: 40px;
 		}
 	
-		.bca{
+		.bni{
 			width: 200px;
 		}
 	
@@ -937,15 +937,15 @@ table {
 			width: 500px;
 		}
 	
-		.kotak{
-			width: 125px;
+		.logo2{
+			width: 300px;
 			height: 125px;
-			background-color: #f6fdff;
+			background-color: #023563;
 			border-radius: 40px;
 		}
 	
 		.img-hdh{
-			width: 100px;
+			width: 200px;
 		}
 	
 		.salin{
@@ -989,43 +989,6 @@ table {
 
 		
 
-		/* PROKES */
-		#prokes{
-			height: 700px;
-			background-color: #E9D6CD;
-		}
-	
-		#prokes .judul{
-			font-family:'Dancing Script', cursive;
-			color: #1F243A;
-			font-size: 60px;
-			text-align: center;
-			text-transform: none;
-			margin: 0;
-			padding-bottom: 30px;
-		}
-	
-		#prokes h2{
-			padding: 10px 20px 10px 20px;
-			font-family: 'Poppins', sans-serif;
-			font-size: 20px;
-			text-align: center;
-		}
-	
-		#prokes h3{
-			font-family: 'Poppins', sans-serif;
-			font-size: 18px;
-			text-align: center;
-		}
-
-		.wrap-prokes{
-			padding-bottom: 70px;
-		}
-	
-		.prok1, .prok2, .prok3, .prok4{
-			width: 300px;
-		}
-	
 
 
 	.authorr{
@@ -1131,7 +1094,7 @@ table {
 				COUPLE
 		--------------------------*/
 	#couple{
-		height: 800px;
+		height: 1800px;
 		background-color: #0D0D0D;
 	}
 
