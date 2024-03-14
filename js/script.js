@@ -33,7 +33,7 @@ var x = setInterval(function() {
 
 function myFunction() {
   // Copy the text inside the text field
-  navigator.clipboard.writeText("4730954781");
+  navigator.clipboard.writeText("1652953374");
   
   // Alert the copied text
   alert("Ingin menyalin nomor rekening?");
@@ -42,9 +42,9 @@ function myFunction() {
 function myFunction1() {
   
   // Copy the text inside the text field
-  navigator.clipboard.writeText("a.n Mohammad Ryan Noor Said \n Jl. Otista Raya. Simpang tiga Cimanggis. RT:001/RW:10. No.39. Cimanggis, Ciputat, Kota Tangerang Selatan, Banten. Kode Pos 15411");
+  navigator.clipboard.writeText("3066094072");
 
   // Alert the copied text
-  alert("Ingin menyalin alamat lengkap?");
+  alert("Ingin menyalin nomor rekening?");
 }
 
