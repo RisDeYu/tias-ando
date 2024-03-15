@@ -391,9 +391,9 @@ table {
 	}
 						
 	#galeri h1{
-		font-family: 'Parisienne', cursive;
+		font-family: 'Dancing Script', cursive;
 		font-weight: 500;
-		color: #364655;
+		color: #eee;
 		font-size: 35px;
 		text-align: center;
 		text-transform: none;
@@ -417,6 +417,8 @@ table {
 		height: 333px;
 		border-radius: 2rem;
 		object-fit: cover;
+		border: 2px solid;
+		border-color: #E9A846;
 	}
 		
 	.slider-arrow{
@@ -847,38 +849,51 @@ table {
 	}
 
 	
-		/*--------------------------
-			GALERI
-			--------------------------*/
+	/*--------------------------
+				GALERI
+	--------------------------*/
+		
 	#galeri{
-		height: 700px;
+		height: 800px;
 		background-color: #0D0D0D;
-		padding-top: 150px;
+		padding-top: 75px;
 	}
 
 	#galeri h1{
-		font-family:'Dancing Script', cursive;
-		color: #eee;
+		font-family: 'Dancing Script', cursive;
+		font-weight: 500;
+		color: #EEE;
 		font-size: 60px;
 		text-align: center;
 		text-transform: none;
 		padding-bottom: 30px;
 	}
-			
-	#galeri img{
-		width: 250px;
-		border-radius: 20px;
-		margin: 20px;
-			
-		-webkit-transition: 0.4s ease;
-		transition: 0.4s ease;
+
+	#galeri .album-slider{
+		height: 525px;
+		padding: 2rem 0;
+		position: relative;
 	}
-	
-	#galeri img:hover{
-		-webkit-transform: scale(1.08);
-		transform: scale(1.08);
+			
+	.album-slide{
+		width: 300px;
+		height: 450px;
+		position: relative;
 	}
-	
+
+	.album-slide .album-slide-img img {
+		width: 300px;
+		height: 450px;
+		border-radius: 2rem;
+		object-fit: cover;
+		border: 3px solid;
+		border-color: #E9A846;
+	}
+			
+	.slider-arrow{
+		color: #fefde9;
+	}
+
 
 
 		
@@ -1302,37 +1317,49 @@ table {
 
 
 	/*--------------------------
-				GALERI
-		--------------------------*/
+		GALERI
+	--------------------------*/
+				
 	#galeri{
-		height: 900px;
+		height: 1080px;
 		background-color: #0D0D0D;
-		padding-top: 150px;
+		padding-top: 75px;
 	}
-
+		
 	#galeri h1{
-		font-family:'Dancing Script', cursive;
-		color: #eee;
+		font-family: 'Dancing Script', cursive;
+		font-weight: 500;
+		color: #EEE;
 		font-size: 75px;
 		text-align: center;
 		text-transform: none;
 		padding-bottom: 30px;
 	}
 		
-	#galeri img{
-		width: 350px;
-		border-radius: 20px;
-		margin: 20px;
-		
-		-webkit-transition: 0.4s ease;
-		transition: 0.4s ease;
+	#galeri .album-slider{
+		height: 750px;
+		padding: 2rem 0;
+		position: relative;
 	}
 
-	#galeri img:hover{
-		-webkit-transform: scale(1.08);
-		transform: scale(1.08);
+	.album-slide{
+		width: 500px;
+		height: 667px;
+		position: relative;
 	}
 
+	.album-slide .album-slide-img img {
+		width: 500px;
+		height: 667px;
+		border-radius: 2rem;
+		object-fit: cover;
+		border: 5px solid;
+		border-color: #f6fdff;
+	}
+
+	.slider-arrow{
+		color: #fefde9;
+	}
 
 	
 	/*--------------------------
