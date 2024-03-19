@@ -48,3 +48,12 @@ function myFunction1() {
   alert("Ingin menyalin nomor rekening?");
 }
 
+function myFunction2() {
+  
+  // Copy the text inside the text field
+  navigator.clipboard.writeText("3003266388");
+
+  // Alert the copied text
+  alert("Ingin menyalin nomor rekening?");
+}
+
