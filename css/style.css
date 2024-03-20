@@ -504,6 +504,27 @@ table {
 		border-style: none;
 	}
 
+		
+	#powrIframeLoader{
+		height: 0;
+	}
+
+	#ucapan{
+		background-color: #0D0D0D;
+	}
+
+	#ucapan h1{
+		font-family: 'Dancing Script', sans-serif;
+		text-align: center;
+		font-size: 25px;
+		color: #eee;
+		text-decoration: none;
+		text-transform: none;
+		padding-top: 70px;
+	}
+
+
+
 	#penutup{
 		height: 500px;
 		background-color: #0D0D0D;
@@ -972,6 +993,21 @@ table {
 			border-radius: 10px;
 			border-style: none;
 		}
+
+		
+	#ucapan{
+		background-color: #0D0D0D;
+	}
+
+	#ucapan h1{
+		font-family: 'Dancing Script', sans-serif;
+		text-align: center;
+		font-size: 60px;
+		color: #eee;
+		text-decoration: none;
+		text-transform: none;
+		padding-top: 70px;
+	}
 
 
 		#penutup{
@@ -1471,37 +1507,24 @@ table {
 		text-transform: none;
 	}
 
-
-	#prokes{
-		height: 700px;
-		background-color: #E9D6CD;
+	
+	#ucapan{
+		background-color: #0D0D0D;
 	}
 
-	#prokes .judul{
-		font-family:'Dancing Script', cursive;
-		color: #1F243A;
+	#ucapan h1{
+		font-family: 'Dancing Script', sans-serif;
+		text-align: center;
 		font-size: 75px;
-		text-align: center;
+		color: #eee;
+		text-decoration: none;
 		text-transform: none;
-		margin: 0;
-		padding-bottom: 30px;
+		padding-top: 70px;
 	}
 
-	#prokes h2{
-		padding: 10px 20px 10px 20px;
-		font-family: 'Poppins', sans-serif;
-		font-size: 25px;
-		text-align: center;
-	}
 
-	#prokes h3{
-		font-family: 'Poppins', sans-serif;
-		font-size: 20px;
-		text-align: center;
-	}
-
-	.prok1, .prok2, .prok3, .prok4{
-		width: 300px;
+	#ucapan{
+		background-color: #0D0D0D;
 	}
 
 
