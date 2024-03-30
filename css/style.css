@@ -353,7 +353,7 @@ table {
 					MAPS
 			--------------------------*/
 	#maps{
-		height: 500px;
+		height: 600px;
 		background-color: #0D0D0D;
 	}
 		
@@ -367,8 +367,8 @@ table {
 	}
 
 	iframe{
-		width: 250px;
-		height: 150px;
+		width: 350px;
+		height: 250px;
 		border-radius: 10px;
 		border: 3px solid;
 		border-color: #E9A846;
@@ -549,7 +549,7 @@ table {
 
 
 	#penutup{
-		height: 500px;
+		height: 300px;
 		background-color: #0D0D0D;
 	}
 
@@ -654,7 +654,7 @@ table {
 	#arrum{
 		background-color: #0D0D0D;
 		padding: 30px 30px 30px 30px;
-		height: 800px;
+		height: 500px;
 		color: #fff;
 		font-family: 'Scheherazade New', serif;
 	}
@@ -674,14 +674,24 @@ table {
 		font-size: 20px;
 	}
 
-	
-	
+
+	#bts1{
+		background-color: #0D0D0D;
+	}
+
+	#bts1 img{
+		background-color: #0D0D0D;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 30%;
+	}
 	
 		/*--------------------------
 					COUPLE
 		--------------------------*/
 	#couple{
-		height: 800px;
+		height: 900px;
 		background-color: #0D0D0D;
 	}
 
@@ -742,15 +752,25 @@ table {
 		color: #eee;
 		text-align: center;
 	}
-	
-	
-	
+
+	#bts2{
+		background-color: #0D0D0D;
+	}
+
+	#bts2 img{
+		background-color: #0D0D0D;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 30%;
+	}
+
 		/*--------------------------
 					HITUNG MUNDUR dan AKAD
 			--------------------------*/
 	#htg-mndr{
 		background-color: #0D0D0D;
-		height: 600px;
+		height: 700px;
 	}	
 	
 	#htg-mndr .container {

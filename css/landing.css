@@ -73,18 +73,20 @@ body {
 		background-size: cover;
 	}
 
-	.KaA{
-		position: absolute;
-		width: 25vh;
-		right: 10px;
-		top: 15px;
+	.lnda{
+		display: block;
+		padding-bottom: 30px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 40vh;
 		z-index: 1;
 	}
-	.KiB{
-		position: absolute;
-		width: 30vh;
-		left: 5px;
-		bottom: 10px;
+	.lndb{
+		display: block;
+		padding-top: 30px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 40vh;
 		z-index: 1;
 	}
 
