@@ -231,7 +231,7 @@ table {
 	}	
 
 	.nama{
-		font-family: 'Josefin Sans', sans-serif;
+		font-family: 'Dancing Script', cursive;
 		font-weight: 600;
 		font-size: 25px;
 		text-transform: none;
@@ -748,7 +748,7 @@ table {
 	}
 	
 	.nama{
-		font-family: 'Josefin Sans', sans-serif;
+		font-family: 'Dancing Script', cursive;
 		font-weight: 600;
 		font-size: 30px;
 		text-transform: none;
@@ -1192,13 +1192,24 @@ table {
 	}
 
 
+	#bts1{
+		background-color: #0D0D0D;
+	}
+
+	#bts1 img{
+		background-color: #0D0D0D;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70vh;
+	}
 
 
 	/*--------------------------
 				COUPLE
 		--------------------------*/
 	#couple{
-		height: 1800px;
+		height: 1100px;
 		background-color: #0D0D0D;
 	}
 
@@ -1241,7 +1252,7 @@ table {
 	}
 
 	.nama{
-		font-family: 'Josefin Sans', sans-serif;
+		font-family: 'Dancing Script', cursive;
 		font-weight: 600;
 		font-size: 30px;
 		text-transform: none;
@@ -1258,6 +1269,18 @@ table {
 		text-align: center;
 	}
 
+	#bts2{
+		background-color: #0D0D0D;
+	}
+
+	#bts2 img{
+		background-color: #0D0D0D;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70vh;
+	}
+
 
 
 	/*--------------------------
@@ -1265,7 +1288,8 @@ table {
 		--------------------------*/
 	#htg-mndr{
 		background-color: #0D0D0D;
-		height: 700px;
+		height: 900px;
+		padding-top: 150px;
 	}	
 
 	#htg-mndr .container {
@@ -1277,7 +1301,7 @@ table {
 	
 	#countdown{
 		padding: 60px;
-		font-size: 55px;
+		font-size: 35px;
 	}
 
 
