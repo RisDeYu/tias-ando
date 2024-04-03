@@ -366,7 +366,7 @@ table {
 		text-transform: none;
 	}
 
-	iframe{
+	#iframe{
 		width: 350px;
 		height: 250px;
 		border-radius: 10px;
@@ -544,6 +544,9 @@ table {
 		padding-top: 70px;
 	}
 
+	#ucapan .powr-comments{
+		width: 85%;
+	}
 
 
 	#penutup{
@@ -884,7 +887,7 @@ table {
 		padding-bottom: 25px;
 	}
 	
-	iframe{
+	#iframe{
 		width: 600px;
 		height: 400px;
 		border-radius: 20px;
@@ -1055,6 +1058,9 @@ table {
 		padding-top: 70px;
 	}
 
+	#ucapan .powr-comments{
+		width: 85%;
+	}
 
 		#penutup{
 			height: 800px;
@@ -1363,7 +1369,7 @@ table {
 		text-transform: none;
 	}
 
-	iframe{
+	#iframe{
 		width: 600px;
 		height: 400px;
 		border-radius: 20px;
@@ -1569,8 +1575,8 @@ table {
 	}
 
 
-	#ucapan{
-		background-color: #0D0D0D;
+	#ucapan .powr-comments{
+		width: 85%;
 	}
 
 
